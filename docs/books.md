@@ -1,6 +1,6 @@
 # **📚 Essential Baby Books**
 
-## **"What to Expect When You're Expecting" (and "The First Year" & "The Second Year")**
+### **"What to Expect When You're Expecting" (and "The First Year" & "The Second Year")**
 These books are my *Bibles*. Seriously. If there’s a question you’ve Googled at 2 a.m. (*"Is this weird, or is it just me?"*), this book has an answer. Or five.
 
 **Why I Love It:**
@@ -10,14 +10,14 @@ These books are my *Bibles*. Seriously. If there’s a question you’ve Googled
 
 *Warning:* It’s so thorough that it might freak you out a little at first. But remember: not every possible symptom means disaster. Sometimes, it’s just gas.
 
-**Find it here:**
-- [What to Expect When You're Expecting](https://books.google.com/books/about/What_to_Expect_When_You_re_Expecting.html?id=283YDwAAQBAJ)
-- [What to Expect the First Year](https://books.google.com/books/about/What_to_Expect_the_First_Year.html?id=283YDwAAQBAJ)
-- [What to Expect the Second Year](https://books.google.com/books/about/What_to_Expect_the_Second_Year.html?id=283YDwAAQBAJ)
+**Find them here:**
+- [What to Expect When You're Expecting](https://www.amazon.com/What-Expect-When-Youre-Expecting/dp/0761187480)
+- [What to Expect the First Year](https://www.amazon.com/What-Expect-First-Heidi-Murkoff/dp/0761181504)
+- [What to Expect the Second Year](https://www.amazon.com/What-Expect-Second-Heidi-Murkoff/dp/0761163646)
 
 ---
 
-## **"Cribsheet" by Emily Oster**
+### **"Cribsheet" by Emily Oster**
 This book is like a warm hug for your anxious brain and a no-nonsense pep talk at the same time. Emily Oster takes all the messy, conflicting parenting advice and breaks it down with data (but in a fun way—not the boring science class way).
 
 **Why I Love It:**
@@ -28,11 +28,15 @@ This book is like a warm hug for your anxious brain and a no-nonsense pep talk a
 *Bonus:* This is a great book to hand your partner when they’re asking "but why are we doing this again?"
 
 **Find it here:**
-- [Cribsheet](https://books.google.com/books/about/Cribsheet.html?id=283YDwAAQBAJ)
+- [Cribsheet](https://www.amazon.com/Cribsheet-Data-Driven-Relaxed-Parenting-Preschool/dp/0525559256)
 
 ---
 
-## **"Baby Sign Language Basics" by Monta Z. Briant**
+Here's the updated section for **Baby Sign Language Basics** with the correct Amazon link:
+
+---
+
+### **"Baby Sign Language Made Easy" by Lane Rebelo**
 This book saved my sanity when my baby decided she was *done* with non-verbal communication but couldn’t quite speak yet. Baby sign language bridges that frustrating gap, and it’s also the cutest thing ever.
 
 **Why I Love It:**
@@ -41,7 +45,7 @@ This book saved my sanity when my baby decided she was *done* with non-verbal co
 - The moment your baby signs *"thank you"* or *"I love you"*? Pure magic.
 
 **Find it here:**
-- [Baby Sign Language Basics](https://books.google.com/books/about/Baby_Sign_Language_Basics.html?id=283YDwAAQBAJ)
+- [Baby Sign Language Made Easy](https://www.amazon.com/dp/1641520779/ref=sspa_dk_hqp_detail_aax_0?psc=1&sp_csd=d2lkZ2V0TmFtZT1zcF9ocXBfc2hhcmVk)
 
 ---
 
