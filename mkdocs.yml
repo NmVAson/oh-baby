@@ -1,0 +1,8 @@
+site_name: Oh Baby! Documentation
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Books: books.md
